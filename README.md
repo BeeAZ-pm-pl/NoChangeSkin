@@ -1,7 +1,7 @@
 # General
 
 <br>
-• Helps You Prevent Players from Changing Skins While Playing
+• Helps You Prevent Players from Changing Skin While Playing
 
 <br>
 
@@ -9,4 +9,4 @@
 
 <br>
 
-• Change "no-change" in **config.yml** to "false" if you want to turn it off
+• Change **no-change** in **config.yml** to **false** if you want to turn it off
