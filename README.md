@@ -9,4 +9,4 @@
 
 <br>
 
-• Change **no-change** in **config.yml** to **false** if you want to turn it off
+• Edit **no-change** in **config.yml** to **false** if you want to turn it off
