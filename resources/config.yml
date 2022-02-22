@@ -1,0 +1,4 @@
+no-change: true
+#true to activate
+#false to turn off
+no-change-msg: You cannot change skins
